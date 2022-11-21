@@ -1,0 +1,7 @@
+{
+  "name": "novoProjeto",
+  "displayName": "novoProjeto",
+  "android": {
+    "package": "com.anonymous.novoprojeto"
+  }
+}

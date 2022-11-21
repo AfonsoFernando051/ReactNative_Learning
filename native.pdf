@@ -1,0 +1,16 @@
+Curso de React Native.
+
+Exercícios:
+https://github.com/cod3rcursos/curso-react-native;
+Versões atualizadas para 2022 -> https://github.com/cod3rcursos/curso-react-native/tree/master/2022;
+
+1 - O que é React Native?
+Versão da bibliotéca React para aplicações móveis;
+
+2 - Como funciona?
+Há duas partes no React Native:
+    UI - interface gráfica, criada a partir do JSX, que cria componentes nativos com JavaScript, que roda em runtime nos dispositivos móveis.
+    V8 em android e JavaScript core, webkit em Apple;
+    
+    Javasctipt - O JSX converte em dispositivos, por exemplo a <View> do React Native, se converte em UIView ou Android.View.
+
